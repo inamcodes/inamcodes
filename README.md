@@ -106,7 +106,7 @@
 ---
 <div align="center">
   
-*"Great software is invisible. Great design makes people feel at home."*
+**رَنَ به وئي، رِلِي به وئي**
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=inamcodes&color=6C63FF&style=flat-square)
  
