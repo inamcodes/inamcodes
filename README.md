@@ -6,6 +6,7 @@
 ### Full-Stack · AI/ML · DevOps — I build things end to end.
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Computer+Science+Student;Open+Source+Lover)](https://git.io/typing-svg)
+
  
 </div>
 
@@ -54,6 +55,7 @@
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=inamcodes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Inam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=inamcodes&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 
@@ -74,7 +76,10 @@
  
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎵 [ChessMate](https://northmeetssouth.audio) | GUI-based chess application | Java · Java-Swing |
+| ♥‿♥ [Facial Expression Recognission](https://github.com/inamcodes/Real-Time-Player-Confidence-Mood-Analysis-System) | Real-Time Player Confidence & Mood Analysis System | Python · OpenCV · CNN |
+| ♖ [ChessMate](https://github.com/inamcodes/chess-mate) | GUI-based chess application | Java · Java-Swing |
+| 🏔️ [KashmirVoyagers](https://github.com/inamcodes/KashmirVoyagers) | Cash Book Android App | Java · Android Studio |
+| ♫ [Farpita](https://github.com/inamcodes/farpita) | web-based Music Player | HTML5 · CSS3 · JavaScript |
  
 ---
  
@@ -84,7 +89,7 @@
 - 🧠 I think in **design systems**, even when ordering chai
 - 🎙️ I've probably **live-demoed** a bug in front of 500 people (and survived)
 - 🤝 I believe **open source is the ultimate side effect** of solving real problems
-- 🗺️ I've organized [TO-DO]
+- 🗺️ I've organized [Study in Germany](https://www.instagram.com/p/DWWO1McjVyi/) online seminar
 ---
  
 ## 📬 Let's Connect
